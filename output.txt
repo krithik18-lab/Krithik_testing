@@ -1,0 +1,35 @@
+claims---cohort_name---pct_increase%
+535---Disorders of muscles---2300.0%
+708---Behavioral and emotional disorders with onset usually occurring in childhood and adolescence---1453.75%
+842---Disorders of skin appendages---1046.37%
+868---Neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes---811.88%
+135---Disorders of other endocrine glands---633.0%
+127---Episodic and paroxysmal disorders---590.98%
+789---Anxiety, dissociative, stress-related, somatoform and other nonpsychotic mental disorders---164.78%
+133---Other joint disorders---14.92%
+866---Diabetes mellitus---10.12%
+636---Symptoms and signs involving the circulatory and respiratory systems----62.3%
+Disorders of muscles---2300.0%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+
+
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
+Disorders of muscles---2300.00%
